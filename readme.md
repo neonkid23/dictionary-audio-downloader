@@ -1,7 +1,7 @@
 # Dictionary Audio Downloader
 
-- Windows app for downloading Dictionary.com pronunciation audio as MP3 files, with single-word, URL, and bulk queue support.
-
+- Windows app that downloads Dictionary.com pronunciation audio and saves it as MP3 files. Users can enter a single word, paste a Dictionary.com word URL, or add multiple words/URLs into a bulk download queue.
+- The app should detect available pronunciation audio, let users choose the save folder, name files clearly, show download progress, and report failed or missing audio entries without crashing.
 
 How to start
 ------------
